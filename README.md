@@ -1,1 +1,1 @@
-# dz2
+C++ homework №2
